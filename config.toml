@@ -1,7 +1,7 @@
-baseURL = "http://www.zeroscope.com"
+baseURL = "https://jobs.secdev.com"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "ZeroScope - Managed Attribution Networking"
+title = "Jobs @ SecDev - Get working on tomorrow's problems today!"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -14,7 +14,7 @@ summaryLength = 10
 [menu]
     [[menu.nav]]
     name = "About Us"
-    URL = "about"
+    URL = "about2"
     weight = 2
 
     [[menu.nav]]
@@ -65,7 +65,7 @@ custom_css = ["css/custom.css"]
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
