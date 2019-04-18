@@ -1,13 +1,13 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : We’re A Next-Generation Risk Consultancy
+description :  SecDev AI is a next generation risk consultancy focused on the nexus of technology, data and social change. We are puzzle solvers. Complexity is our obsession. We recognize urban growth and digital economy as the key changemakers of our era. We channel our intellectual curiosity into creating value by empowering our clients to find opportunity in risk in the digital-urban age. We engage complex issues of urban and digital risk through a combination of strategic insight and excellence in advanced research methods. We look at problems strategically. We design solutions creatively. We results communicate effectively. We apply innovation in every aspect of our work. We are global in scope and fluent in the AI driven future. We believe in creating value. 
+description2 : We believe in stronger and safer communities. We work in the private and public sectors to achieve these goals. We enable smarter decisions and better outcomes that help our clients manage complex digital and urban risk, unlock value and find new opportunities.
 aboutItem : 
   - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Global Reach
+    content : We have a network of experienced researchers around the globe.
     
   - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Full of Hot Air
+    content : We are completely full of hot air, like a hot air balloon.

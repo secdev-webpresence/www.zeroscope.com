@@ -1,9 +1,9 @@
-enable : true
+enable : false
 heading : About
 headingSpan : Us
 aboutItem : 
 - icon : tf-tools
-  title : We're Creative
+  title : Next-Gen Risk Consultancy
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
 - icon : tf-strategy
