@@ -18,34 +18,19 @@ summaryLength = 10
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
-    URL = "services"
+    name = "Jobs"
+    URL = "jobs"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
+    name = "Internship"
+    URL = "internship"
     weight = 4
-
-    [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
-    weight = 5
-
-    [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
-
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
 
     [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 8
+    weight = 5
 
 # Site params
 [params]
@@ -64,17 +49,17 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    heading = "Jobs @ SecDev"
+    content= "Are you looking for an exciting opportunity that pushes you to the edge of innovative research and policy development?"
     btn = true
-    btnText="Explore Us"
-    btnURL="#services"
+    btnText="Learn More"
+    btnURL="jobs"
 
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    title = "SecDev Group is looking for high-quality candidates"
+    content = "Our work lives at the intersection of human behaviour and the digital future. Since 2006 we’ve developed innovative technologies, solutions, and approaches to wicked problems in the toughest global environments."
     btnURL = "#"
     btnText = "Start a project with us"
 
@@ -104,8 +89,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "The SecDev Group"
+        copyrightURL = "http://www.secdev.com"
 
         # social Icons
         [[params.footer.socialIcon]]
