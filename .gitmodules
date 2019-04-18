@@ -1,6 +1,0 @@
-[submodule "themes/vex-hugo"]
-	path = themes/vex-hugo
-	url = https://github.com/themefisher/vex-hugo.git
-[submodule "themes/meghna-hugo"]
-	path = themes/meghna-hugo
-	url = git@github.com:themefisher/meghna-hugo.git
